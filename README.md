@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Muhannad Samara 👋</h1>
 
 <h3 align="center">
-Senior RPA / Robotic Systems Specialist | UiPath Developer | Web, Desktop & AI Automation
+Senior RPA / Robotic Systems Specialist | UiPath Developer |  AI Automation
 </h3>
 
 ---
