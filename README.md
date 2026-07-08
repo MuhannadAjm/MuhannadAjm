@@ -1,5 +1,6 @@
 
-![lINKIND](https://github.com/user-attachments/assets/15308977-7711-4022-a9a4-feb9c65b0d7c)
+![lINKIND](<img width="1408" height="352" alt="1 (2)" src="https://github.com/user-attachments/assets/ca07cce5-ab6a-406e-8ca7-618de8e021cc" />)
+
 
 
 ### 💫 About Me:
