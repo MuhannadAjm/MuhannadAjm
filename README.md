@@ -1,5 +1,5 @@
 
-![lINKIND](<img width="1408" height="352" alt="1 (2)" src="https://github.com/user-attachments/assets/ca07cce5-ab6a-406e-8ca7-618de8e021cc" />)
+![lINKIND](https://github.com/user-attachments/assets/ade531a0-736e-4eea-b5a0-e761ab72741c)
 
 
 
